@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.a {
+    margin-left: 1rem;
+    padding-bottom: 1rem;
+}
+
+.b {
+    background-color: red;
+}
+
+.c {
+    background-color: yellow;
+}
+
+
+
+table, th, td {
+    border: 1px black solid;
+    /* margin-left: 5rem; */
+    /* padding: 50px; */
+    /* width: 30%; */
+    
+    
+    
+    
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 50%;
+    /* height: 70vh; */
+    margin-left: 1rem;
+    width: 30%;    
+}
+
+th, td {
+    padding: 10px;
+}
+
+.z {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    padding: 3px 25px;
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    /* margin-top: 1%; */
+    margin: 1% ;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
